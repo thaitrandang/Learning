@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringPractice1", "StringPr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringPractice2", "StringPractice2\StringPractice2.csproj", "{A30657FC-ED97-476F-837C-ED9035E22786}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortPractice3", "SortPractice3\SortPractice3.csproj", "{B60A370B-F494-4D89-A15C-062313131007}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortPractice3", "SortPractice3\SortPractice3.csproj", "{B60A370B-F494-4D89-A15C-062313131007}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMaxOccurCharString", "FindMaxOccurCharString\FindMaxOccurCharString.csproj", "{7CE7B583-2A22-4F7C-9DF5-BD17FDD250DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{B60A370B-F494-4D89-A15C-062313131007}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B60A370B-F494-4D89-A15C-062313131007}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B60A370B-F494-4D89-A15C-062313131007}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CE7B583-2A22-4F7C-9DF5-BD17FDD250DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CE7B583-2A22-4F7C-9DF5-BD17FDD250DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CE7B583-2A22-4F7C-9DF5-BD17FDD250DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CE7B583-2A22-4F7C-9DF5-BD17FDD250DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
